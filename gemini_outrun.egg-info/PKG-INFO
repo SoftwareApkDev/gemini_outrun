@@ -1,3 +1,19 @@
+Metadata-Version: 2.4
+Name: gemini_outrun
+Version: 1
+Summary: This package contains implementation of Outrun game with Google Gemini AI integrated into it.
+Home-page: https://github.com/SoftwareApkDev/gemini_outrun
+Author: SoftwareApkDev
+Author-email: softwareapkdev2022@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Description-Content-Type: text/markdown
+Requires-Dist: gemini_ai_app_store
+
 # Gemini Outrun
 
 **Outrun** game with Google Gemini AI integrated into it.

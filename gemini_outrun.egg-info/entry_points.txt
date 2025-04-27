@@ -1,0 +1,2 @@
+[console_scripts]
+gemini_outrun = gemini_outrun.gemini_outrun:main
